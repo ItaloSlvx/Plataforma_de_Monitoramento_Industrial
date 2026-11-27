@@ -1,0 +1,1 @@
+# Plataforma_de_Monitoramento_Industrial
